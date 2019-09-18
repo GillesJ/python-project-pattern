@@ -10,5 +10,5 @@ pipenv run pre-commit install -t pre-commit
 pipenv run pre-commit install -t pre-push
 ```
 
-## Credits
-This package was created with Cookiecutter and the [sourceryai/python-best-practices-cookiecutter](https://github.com/sourceryai/python-best-practices-cookiecutter) project template.
+## Contact
+- Gilles Jacobs gilles@jacobsgill.es
