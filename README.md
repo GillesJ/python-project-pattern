@@ -6,7 +6,6 @@ Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template 
 - Testing with [pytest](https://docs.pytest.org/en/latest/)
 - Formatting with [black](https://github.com/psf/black)
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
-- Static typing with [mypy](http://mypy-lang.org/)
 - Linting with [flake8](http://flake8.pycqa.org/en/latest/)
 - Git hooks that run all the above with [pre-commit](https://pre-commit.com/)
 

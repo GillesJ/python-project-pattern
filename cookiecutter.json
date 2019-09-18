@@ -1,4 +1,4 @@
 {
-  "project_name": "Best Practices",
+  "project_name": "Python Project Pattern",
   "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
 }
