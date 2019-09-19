@@ -1,6 +1,7 @@
-# Python Best Practices Cookiecutter
+# Python Datascience Project Pattern
 
 Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template as described in this [blogpost](https://sourcery.ai/blog/python-best-practices/).
+Inspired by https://github.com/drivendata/cookiecutter-data-science.
 
 ## Features
 - Testing with [pytest](https://docs.pytest.org/en/latest/)
@@ -8,6 +9,9 @@ Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template 
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
 - Linting with [flake8](http://flake8.pycqa.org/en/latest/)
 - Git hooks that run all the above with [pre-commit](https://pre-commit.com/)
+
+## Directory structure
+
 
 ## Tools required globally
 - pyenv: set global and local python version
